@@ -13,8 +13,8 @@
 
 ## GitHub Stats
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oyevipthoma88&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyevipthoma88&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oyevipthoma88&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyevipthoma88&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=1800" />
 <br/>
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=oyevipthoma88&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF" />
 <br/>
@@ -23,7 +23,7 @@
 
 ## Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <div align="center">
