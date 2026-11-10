@@ -6,66 +6,45 @@
 
 <br/>
 
-<!-- FAKE HIGH METRICS (Shields.io static for followers/stars, Komarev base for views) -->
-<img src="https://komarev.com/ghpvc/?username=oyevipthoma88&label=Profile+Views&color=00d9ff&style=for-the-badge&base=25000" />
+<img src="https://komarev.com/ghpvc/?username=oyevipthoma88&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&base=45000" />
 &nbsp;
-<img src="https://img.shields.io/badge/Followers-1.2k-00d9ff?style=for-the-badge&logo=github&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOLLOWERS-2.5K-00d9ff?style=for-the-badge&logo=github&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Stars-450-00d9ff?style=for-the-badge&logo=github&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STARS-850-00d9ff?style=for-the-badge&logo=github&labelColor=0D1117" />
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-### 💫 About Me
-- 🔭 I’m currently working on **Advanced Telegram Bots & Automation**
-- 🌱 I’m currently learning **Cloud Architecture & AI Integrations**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Node.js, and Server Management**
-- ⚡ Fun fact: **I automate everything!**
-
-<br clear="both"/>
-
-## 🛠️ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,html,css,git,github,docker,linux,mongodb,nginx,redis,vscode&theme=dark" />
+  <a href="https://github.com/oyevipthoma88">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=oyevipthoma88&theme=tokyonight&headerStyle=mac&hostname=apex.dev&typingSpeed=60" alt="Terminal Stats" width="100%" />
+  </a>
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack & Arsenal
 <div align="center">
-  <!-- Stats Cards with reliable fallback parameters -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oyevipthoma88&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyevipthoma88&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  
-  <br/><br/>
-  
-  <img width="70%" src="https://streak-stats.demolab.com/?user=oyevipthoma88&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" />
-  
-  <br/><br/>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oyevipthoma88&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,html,css,git,github,docker,linux,mongodb,nginx,redis,vscode,cloudflare,grafana&theme=dark" />
+</div>
+
+<br/>
+
+## 👾 Arcade Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 <br/>
