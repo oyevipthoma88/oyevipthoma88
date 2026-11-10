@@ -45,8 +45,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <!-- Alternative Reliable Trophy Server -->
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" width="100%" />
+  <!-- Cache Buster (&v=2) Added to fix the broken image -->
+  <img src="https://github-profile-trophy.vercel.app/?username=oyevipthoma88&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&v=2" width="100%" />
 </div>
 
 <br><br>
