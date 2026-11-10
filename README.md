@@ -45,7 +45,7 @@
 ## 🏙️ 3D Contribution Skyline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Skyline" width="100%" />
+  <img src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/main/profile-3d-contrib/profile-night-rainbow.svg?v=3" alt="3D Contribution Skyline" width="100%" />
 </div>
 
 <br><br>
