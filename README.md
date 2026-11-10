@@ -42,11 +42,16 @@
 
 <br><br>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <!-- Cache Buster (&v=2) Added to fix the broken image -->
-  <img src=".github/assets/trophy.svg?v=3" alt="GitHub Trophies" width="100%" />
+  <img src="https://img.shields.io/badge/🏆_Top_1%25_Developer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/⭐_Open_Source_Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Automation_Expert-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/💻_Full_Stack_Dev-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/🥇_Hackathon_Winner-FF4500?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️_Cyber_Security-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <br><br>
