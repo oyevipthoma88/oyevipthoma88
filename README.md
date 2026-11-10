@@ -22,7 +22,7 @@
 
 <br><br>
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack & Arsenal (Neural Map)
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,html,css,git,github,docker,linux,mongodb,nginx,redis,vscode,cloudflare,grafana&theme=dark" />
@@ -38,6 +38,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/pacman-contribution-graph.svg" />
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br><br>
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oyevipthoma88/oyevipthoma88/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" width="100%" />
 </div>
 
 <br><br>
